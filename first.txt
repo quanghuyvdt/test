@@ -1,0 +1,4 @@
+push from linux to git
+
+git remote set-url origin https://<token>@github.com/quanghuyvdt/<repo>
+generate token: https://github.com/settings/tokens
